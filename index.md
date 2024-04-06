@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Hi there! My name is Eliska Helikarova. 
 
-Maybe say a some things about yourself.
+I am a software tester and security enthusiast from Czech Republic. 
 
-Or maybe what you plan to blog about.
+This blog is meant for my project ideas and CTF (Tryhackme, HTB, PicoCTF, ...) writeups. 
+
+
